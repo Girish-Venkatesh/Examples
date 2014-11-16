@@ -1,0 +1,7 @@
+String is immutable. That is, its content cannot be modified once it is created. 
+For example, the method toUpperCase()  constructs and returns a new String instead of 
+modifying the its existing content.
+
+If string is null, we cannot perform isempty on null object.
+
+IM1 == string arrays, startswith, endswith
